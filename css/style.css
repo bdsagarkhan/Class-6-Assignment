@@ -1,0 +1,18 @@
+body{
+	text-align: center;
+}
+h1.block_element, h1.inline_element {
+  background: #ffff00;
+  padding: 20px 0;
+  font-size: 50px;
+}
+h1.block_element, 
+h1.inline_element, 
+.underline {
+  text-decoration: underline;
+}
+.myDiv {
+  border: 5px outset red;
+  background-color: lightblue;    
+  text-align: center;
+}
